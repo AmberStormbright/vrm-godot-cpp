@@ -2,3 +2,9 @@
 	path = godot-cpp
 	url = https://github.com/godotengine/godot-cpp.git
 	branch = 4.3
+[submodule "vrm-specification"]
+	path = vrm-specification
+	url = https://github.com/vrm-c/vrm-specification.git
+[submodule "glTF"]
+	path = glTF
+	url = https://github.com/KhronosGroup/glTF.git
